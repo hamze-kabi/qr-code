@@ -23,11 +23,11 @@ Recreating a QR code page, with the goal of practicing html and css
 
 ### Screenshot
 
-[screenshot.png](https://github.com/HamzeKabi/frontend-practices/blob/fafb5a79bdfb667fc4e893e83a6c1a993ff4fa21/screenshot.png)
+[screenshot.png](https://github.com/hamze-kabi/frontend-practices/blob/fafb5a79bdfb667fc4e893e83a6c1a993ff4fa21/screenshot.png)
 
 ### Links
 
-- Solution URL: [[solution URL](https://github.com/HamzeKabi/frontend-practices/blob/ddab413aec45461c4ab3e3fff8e05cb0d76adbef/index.html)]
+- Solution URL: [[solution URL](https://github.com/hamze-kabi/frontend-practices/blob/ddab413aec45461c4ab3e3fff8e05cb0d76adbef/index.html)]
 
 ## My process
 
@@ -54,4 +54,4 @@ left: 0;
 margin: auto;
 ```
 ## Author
-- Github account - [HamzeKabi](https://github.com/HamzeKabi)
+- Github account - [hamze-kabi](https://github.com/hamze-kabi)
