@@ -23,7 +23,7 @@ Recreating a QR code page, with the goal of practicing html and css
 
 ### Screenshot
 
-[screenshot.png](screenshot.png)
+![screenshot.png](screenshot.png)
 
 ### Links
 
