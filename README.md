@@ -27,7 +27,7 @@ Recreating a QR code page, with the goal of practicing html and css
 
 ### Links
 
-- Solution URL: [[solution URL](https://github.com/hamze-kabi/qr-code/tree/main)
+- Solution URL: [solution URL](https://github.com/hamze-kabi/qr-code/tree/main)
 
 ## My process
 
