@@ -23,7 +23,7 @@ Recreating a QR code page, with the goal of practicing html and css
 
 ### Screenshot
 
-[screenshot.png](https://github.com/hamze-kabi/frontend-practices/blob/fafb5a79bdfb667fc4e893e83a6c1a993ff4fa21/screenshot.png)
+[screenshot.png](screenshot.png)
 
 ### Links
 
